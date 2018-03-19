@@ -1,5 +1,5 @@
 <?php
-define('api_key','1C68C546AC3F6FE254F828B460786D99');
+define('api_key','YOUR API KEY HERE!');
 $first_gamer = 76561197960434622;
 
 function estrai_giochi($steamid){
